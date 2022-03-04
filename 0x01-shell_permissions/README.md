@@ -1,1 +1,1 @@
-my name
+To switch the current user to the user betty
